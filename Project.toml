@@ -1,6 +1,6 @@
 name = "at_spi2_atk_jll"
 uuid = "de012916-1e3f-58c2-8f29-df3ef51d412d"
-version = "2.34.1+1"
+version = "2.34.1+2"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
